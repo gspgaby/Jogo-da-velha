@@ -4,7 +4,7 @@
 
 ## 🚀 Sobre o desafio
 
-Implementar o jogo Symon Says funcionando.
+Implementar o jogo da velha funcionando.
 
 ## Pré-requisitos necessários para a utilização da Aplicação
 
